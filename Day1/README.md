@@ -334,4 +334,8 @@ resource "aws_instance" "web" {
 }
 ```
 
+**What Is a Module?**
+
+A Terraform module is simply a collection of Terraform configuration files (usually .tf files) organized together to create reusable infrastructure components.
+
 
